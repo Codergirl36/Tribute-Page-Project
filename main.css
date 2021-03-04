@@ -40,8 +40,8 @@ h1 {
 	margin: 5%;
 }
 
-img-caption {
-	border: 1px solid black;
+#img-caption {
+	border: none;
 }
 
 #image {
